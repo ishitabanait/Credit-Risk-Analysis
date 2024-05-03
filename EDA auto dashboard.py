@@ -108,4 +108,4 @@ def automated_EDA(file_path):
     app.run_server(debug=True)
 
 # Call the function with the file path
-automated_EDA("C:/Users/91942/Desktop/loan/loan_clean.csv")
+automated_EDA("loan_clean.csv")
