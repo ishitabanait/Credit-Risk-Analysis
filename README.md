@@ -10,7 +10,7 @@ Credit risk represents the potential for financial loss when borrowers fail to m
 
    - **Expected Credit Loss (ECL)**: This is the anticipated amount that a lender might lose when lending to a borrower. It is calculated using the formula:
 
-     $ \text{ECL} = \text{PD} \times \text{LGD} \times \text{EAD} $
+     $$ \text{ECL} = \text{PD} \times \text{LGD} \times \text{EAD} $$
 
      where:
      - **PD (Probability of Default)**: The likelihood that a borrower will default on their debt.
