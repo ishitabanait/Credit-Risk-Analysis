@@ -10,7 +10,7 @@ Credit risk represents the potential for financial loss when borrowers fail to m
 
    - **Expected Credit Loss (ECL)**: This is the anticipated amount that a lender might lose when lending to a borrower. It is calculated using the formula:
 
-     \[ \text{ECL} = \text{PD} \times \text{LGD} \times \text{EAD} \]
+     $ \text{ECL} = \text{PD} \times \text{LGD} \times \text{EAD} $
 
      where:
      - **PD (Probability of Default)**: The likelihood that a borrower will default on their debt.
@@ -101,10 +101,6 @@ In this PD model, we follow a structured approach to estimate the Probability of
 
 ---
 
-## Introduction to LGD and EAD Models
-
-In credit risk management, understanding and quantifying potential losses are paramount. Two critical components of this assessment are Loss Given Default (LGD) and Exposure at Default (EAD) models. Let's delve into each:
-
 ### LGD Model
 
 LGD, or Loss Given Default, represents the proportion of a loan that is not recovered in the event of default. This model aims to estimate the recovery rate, calculated as the ratio of actual recoveries to the funded amount.
@@ -174,7 +170,7 @@ Feel free to contribute to the project by opening issues or submitting pull requ
 
 ---
 
-© [Year] [Your Name/Your Company]. All rights reserved.
+© [2024] [Ishita Banait]. All rights reserved.
 
 ---
 
