@@ -4,6 +4,25 @@
 
 Credit risk represents the potential for financial loss when borrowers fail to meet their debt obligations. It is a critical consideration for lenders, encompassing both borrower-specific factors and broader economic conditions. Credit risk is typically assessed and quantified using credit ratings provided by agencies such as FICO, S&P Global, Moody’s, and Fitch Ratings. These ratings help determine the likelihood of default and the associated financial risks.
 
+## Dataset Information
+This analysis uses the Lending Club Loan Dataset, which provides comprehensive information on loan performance and borrower characteristics. Lending Club is a well-known online lending platform that connects borrowers and investors. The dataset includes various features such as loan amounts, interest rates, repayment terms, borrower income, credit scores, and loan statuses (e.g., fully paid, charged off).
+
+### Key Features of the Dataset:
+- **Loan Amount**: The principal amount of the loan.
+- **Interest Rate**: The annual interest rate charged on the loan.
+- **Loan Term**: The duration of the loan (typically in months).
+- **Installment**: The monthly payment amount.
+- **Grade and Sub-Grade**: Lending Club’s internal rating system to assess creditworthiness.
+- **Employment Length**: The borrower’s length of employment in years.
+- **Annual Income**: The borrower’s reported annual income.
+- **Debt-to-Income Ratio (DTI)**: The borrower’s monthly debt payments divided by their monthly income.
+- **Home Ownership**: Indicates whether the borrower owns a home.
+- **Loan Status**: The current status of the loan (e.g., fully paid, charged off, current).
+- **Credit Score**: Borrower’s credit score range.
+- **Purpose**: The stated purpose of the loan (e.g., debt consolidation, credit card, home improvement).
+This dataset is publicly available and has been widely used for research in credit risk analysis. It offers a rich set of variables that enable robust modeling and insights into the factors influencing loan performance and default risk.
+
+
 ## Key Components of Credit Risk
 
 1. **Expected Losses**: These are the losses that can be reasonably forecasted based on historical data and statistical models. They include:
