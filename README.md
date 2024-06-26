@@ -173,5 +173,3 @@ Feel free to contribute to the project by opening issues or submitting pull requ
 © [2024] [Ishita Banait]. All rights reserved.
 
 ---
-
-This README file provides a comprehensive overview of the project, ensuring clarity and understanding for anyone interested in the details of credit risk analysis and the methodologies employed.
