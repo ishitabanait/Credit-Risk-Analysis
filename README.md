@@ -20,6 +20,7 @@ This analysis uses the Lending Club Loan Dataset, which provides comprehensive i
 - **Loan Status**: The current status of the loan (e.g., fully paid, charged off, current).
 - **Credit Score**: Borrower’s credit score range.
 - **Purpose**: The stated purpose of the loan (e.g., debt consolidation, credit card, home improvement).
+
 This dataset is publicly available and has been widely used for research in credit risk analysis. It offers a rich set of variables that enable robust modeling and insights into the factors influencing loan performance and default risk.
 
 
