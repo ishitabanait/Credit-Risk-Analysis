@@ -152,9 +152,7 @@ The EL is determined by multiplying the probabilities of default, the estimated 
 
 Our comprehensive analysis of the Probability of Default (PD) model, Loss Given Default (LGD) model, and Exposure at Default (EAD) model yields valuable insights into credit risk assessment and mitigation strategies:
 
-- **PD Model Evaluation**: The PD model effectively predicts the probability of default for each loan record, achieving an accuracy of 86.17%. Although the AUROC score and Gini index suggest moderate discriminatory power, the KS statistic indicates minimal separation between default and non-default
-
- cases. The creation of scorecards with scores ranging from 300 to 850 for individual loan records provides a practical tool for credit risk assessment.
+- **PD Model Evaluation**: The PD model effectively predicts the probability of default for each loan record, achieving an accuracy of 86.17%. Although the AUROC score and Gini index suggest moderate discriminatory power, the KS statistic indicates minimal separation between default and non-default cases. The creation of scorecards with scores ranging from 300 to 850 for individual loan records provides a practical tool for credit risk assessment.
 
 - **LGD Model Analysis**: The LGD model shows promising results. The Stage-1 logistic model achieves an accuracy of 74.16%, while the Stage-2 linear model indicates a normal distribution of recovery rates, suggesting a robust and reliable model.
 
